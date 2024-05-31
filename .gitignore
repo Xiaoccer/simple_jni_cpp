@@ -1,0 +1,3 @@
+*.so
+hello_jni/target
+hello_jni/src/main/resources
