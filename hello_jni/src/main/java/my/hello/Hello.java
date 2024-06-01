@@ -20,7 +20,7 @@ public class Hello {
         int number = h.getNumber();
         String s = h.say("call jni");
         if (s.equals("ok")) {
-            System.out.println("change number from " + number + " to " + h.getNumber());
+            System.out.println("Change number from " + number + " to " + h.getNumber());
         } else {
             System.out.println("Wrong!");
         }
